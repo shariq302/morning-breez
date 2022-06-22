@@ -94,9 +94,9 @@
                                     <li>
                                        <a href="STUDY_IN_CANADA.php">STUDY IN CANADA</a>
                                     </li>
-                                    <li>
+                                    <!-- <li>
                                        <a href="STUDY_IN_EUROPE.php">STUDY IN EUROPE</a>
-                                    </li>
+                                    </li> -->
                                     <li>
                                        <a href="STUDY_IN_CYPRUS.php">STUDY IN CYPRUS</a>
                                     </li>
@@ -126,9 +126,9 @@
                                    
                                  </ul>
                               </li>
-                              <li>
+                              <!-- <li> -->
                                  <!-- <a href="destination.php">Visit Visa</a> -->
-                              </li>
+                              <!-- </li> -->
                               <li>
                                  <a href="about.php">about us</a>
                               </li>
