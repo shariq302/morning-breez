@@ -92,7 +92,7 @@
                   <div class="destination-section">
                      <div class="row">
                         <div class="col-lg-4 col-md-6">
-                           <article class="destination-item" style="background-image: url(assets/images/img1.jpg);">
+                           <article class="destination-item" style="background-image: url(assets/images/country/sydney-opera-house-354375_1280.jpg);">
                               <div class="destination-content">
                                  <div class="rating-start-wrap">
                                     <div class="rating-start">
@@ -105,12 +105,12 @@
                                  <h3>
                                     <a href="package-detail.html">Australia</a>
                                  </h3>
-                                 <p>Fusce hic augue velit wisi ips quibusdam pariatur, iusto.</p>
+                                 <p>Australia, is a sovereign country comprising the mainland of the Australian continent</p>
                               </div>
                            </article>
                         </div>
                         <div class="col-lg-4 col-md-6">
-                           <article class="destination-item" style="background-image: url(assets/images/img2.jpg);">
+                           <article class="destination-item" style="background-image: url(assets/images/country/usa.jpeg);">
                               <div class="destination-content">
                                  <div class="rating-start-wrap">
                                     <div class="rating-start">
@@ -123,12 +123,12 @@
                                  <h3>
                                     <a href="package-detail.html">USA</a>
                                  </h3>
-                                 <p>Fusce hic augue velit wisi ips quibusdam pariatur, iusto.</p>
+                                 <p>The U.S. is a country of 50 states covering a vast swath of North America</p>
                               </div>
                            </article>
                         </div>
                         <div class="col-lg-4 col-md-6">
-                           <article class="destination-item" style="background-image: url(assets/images/img3.jpg);">
+                           <article class="destination-item" style="background-image: url(assets/images/country/canada-place.jpg);">
                               <div class="destination-content">
                                  <div class="rating-start-wrap">
                                     <div class="rating-start">
@@ -141,13 +141,13 @@
                                  <h3>
                                     <a href="package-detail.html">Canada</a>
                                  </h3>
-                                 <p>Fusce hic augue velit wisi ips quibusdam pariatur, iusto.</p>
+                                 <p>Canada is a country in North America. Its ten provinces and three territories extend from the Atlantic Ocean</p>
                               </div>
                            </article>
                         </div>
                      </div>
                      <div class="section-btn-wrap text-center">
-                        <a href="destination.html" class="round-btn">More Destination</a>
+                        <a href="#" class="round-btn">More Destination</a>
                      </div>
                   </div>
                </div>
@@ -166,12 +166,12 @@
                               <figure class="about-image">
                                  <img src="assets/images/img27.jpg" alt="">
                                  <div class="about-image-content">
-                                    <h3>WE ARE BEST FOR TOURS & TRAVEL SINCE 1985 !</h3>
+                                    <h3>WE ARE BEST FOR TOURS & TRAVEL SINCE 2004 !</h3>
                                  </div>
                               </figure>
                               <h2>HOW WE ARE BEST FOR TRAVEL !</h2>
-                              <p>Dictumst voluptas qui placeat omnis repellendus, est assumenda dolores facilisis, nostra, inceptos. Ullam laudantium deserunt duis platea. Fermentum diam, perspiciatis cupidatat justo quam voluptate, feugiat, quaerat. Delectus aute scelerisque blanditiis venenatis aperiam rem. Tempore porttitor orci eligendi velit vel scelerisque minus scelerisque? Dis! Aenean! Deleniti esse aperiam adipiscing, sapiente? </p>
-                              <p>Ratione conubia incididunt nullam! Sodales, impedit, molestias consectetuer itaque magni ut neque, lobortis expedita corporis voluptatem natus praesent mollis quidem auctor curae, mattis laboris diamlorem iure nullam esse? Pariatur primis.</p>
+                              <p>We are one of the very few overseas registered tour agents offering authentic services in the industry which is one of the many reasons for our clients’ trust and loyalty towards our services and is a licensed travel consultant by New Zealand travel Advisers Authority and qualified tour consultant & travel expert. </p>
+                              <p>Morning Breeze  is one of the most renowned best and trusted travel consultant & tour abroad Agents in Pakistan. We have a successful track record of 18 years for providing excellent education consultancy services in tour abroad, Student Visa, travel, Business Travel, Skilled visa, Family and Visitor visa, and corporate entrepreneur work visa.We provide tour and travel Consultancy in Countries like Australia, Canada, New Zealand, Cyprus,Russia,Norway,Germany,Denmark and UK Consultant!</p>
                            </div>
                            <div class="client-slider white-bg">
                               <figure class="client-item">
@@ -198,7 +198,7 @@
                               </div>
                               <div class="icon-box-content">
                                  <h3>AFFORDABLE TOURS</h3>
-                                 <p>Iure doloremque saepe? Ultrices mi aliquam dis tempore incididunt sint, cumque dis temp!</p>
+                                 <p>We provide Affortable Toure for you and your family</p>
                               </div>
                            </div>
                            <div class="icon-box">
@@ -207,7 +207,7 @@
                               </div>
                               <div class="icon-box-content">
                                  <h3>BEST TOUR GUIDES</h3>
-                                 <p>Iure doloremque saepe? Ultrices mi aliquam dis tempore incididunt sint, cumque dis temp!</p>
+                                 <p>we provide top nouch tour guide best in town!</p>
                               </div>
                            </div>
                            <div class="icon-box">
@@ -215,8 +215,8 @@
                                  <i aria-hidden="true" class="fas fa-headset"></i>
                               </div>
                               <div class="icon-box-content">
-                                 <h3>AFFORDABLE TOURS</h3>
-                                 <p>Iure doloremque saepe? Ultrices mi aliquam dis tempore incididunt sint, cumque dis temp!</p>
+                                 <h3>Best Service</h3>
+                                 <p>we provide best serve for travelling and tour!</p>
                               </div>
                            </div>
                         </div>
@@ -237,10 +237,10 @@
                                  </a>
                               </div>
                               <h2 class="section-title">ARE YOU READY TO TRAVEL? REMEMBER US !!</h2>
-                              <p>Fusce hic augue velit wisi quibusdam pariatur, iusto primis, nec nemo, rutrum. Vestibulum cumque laudantium. Sit ornare mollitia tenetur, aptent.</p>
+                              <!-- <p>Fusce hic augue velit wisi quibusdam pariatur, iusto primis, nec nemo, rutrum. Vestibulum cumque laudantium. Sit ornare mollitia tenetur, aptent.</p> -->
                               <div class="callback-btn">
-                                 <a href="package.html" class="round-btn">View Packages</a>
-                                 <a href="about.html" class="outline-btn outline-btn-white">Learn More</a>
+                                 <!-- <a href="package.html" class="round-btn">View Packages</a> -->
+                                 <!-- <a href="about.html" class="outline-btn outline-btn-white">Learn More</a> -->
                               </div>
                            </div>
                         </div>
@@ -267,7 +267,7 @@
                               </div>
                               <div class="icon-box-content">
                                  <h3>BEST HOTELS</h3>
-                                 <p>Donec temporibus consectetuer, repudiandae integer pellentesque aliquet justo at sequi, atque quasi.</p>
+                                 <p>we provide best hotels in town.</p>
                                  <a href="#" class="round-btn">Learn More</a>
                               </div>
                            </div>
@@ -279,7 +279,7 @@
                               </div>
                               <div class="icon-box-content">
                                  <h3>TRAVEL INSURANCE</h3>
-                                 <p>Donec temporibus consectetuer, repudiandae integer pellentesque aliquet justo at sequi, atque quasi.</p>
+                                 <p>we provide best travel insurance .</p>
                                  <a href="#" class="round-btn">Learn More</a>
                               </div>
                            </div>
@@ -291,7 +291,7 @@
                               </div>
                               <div class="icon-box-content">
                                  <h3>ACCESSIBILITY</h3>
-                                 <p>Donec temporibus consectetuer, repudiandae integer pellentesque aliquet justo at sequi, atque quasi.</p>
+                                 <p>you can easy contact us for booking by filling form.</p>
                                  <a href="#" class="round-btn">Learn More</a>
                               </div>
                            </div>
@@ -303,7 +303,7 @@
                               </div>
                               <div class="icon-box-content">
                                  <h3>ONLINE BOOKING</h3>
-                                 <p>Donec temporibus consectetuer, repudiandae integer pellentesque aliquet justo at sequi, atque quasi.</p>
+                                 <p>we also provide online booking service.</p>
                                  <a href="#" class="round-btn">Learn More</a>
                               </div>
                            </div>
@@ -315,7 +315,7 @@
                               </div>
                               <div class="icon-box-content">
                                  <h3>BEST TOUR</h3>
-                                 <p>Donec temporibus consectetuer, repudiandae integer pellentesque aliquet justo at sequi, atque quasi.</p>
+                                 <p>we provide best tour for our customers </p>
                                  <a href="#" class="round-btn">Learn More</a>
                               </div>
                            </div>
@@ -327,7 +327,7 @@
                               </div>
                               <div class="icon-box-content">
                                  <h3>24*7 SUPPORT</h3>
-                                 <p>Donec temporibus consectetuer, repudiandae integer pellentesque aliquet justo at sequi, atque quasi.</p>
+                                 <p>we provide 24*7 services so that you can easily toch with us</p>
                                  <a href="#" class="round-btn">Learn More</a>
                               </div>
                            </div>
@@ -336,23 +336,7 @@
                   </div>
                </div>
                <!-- ***about section html start form here*** -->
-               <!-- ***callback section html start form here*** -->
-               <div class="bg-color-callback bg-light-grey">
-                  <div class="container">
-                     <div class="row align-items-center">
-                        <div class="col-lg-8 offset-lg-2 text-center">
-                           <h5 class="sub-title">CALL TO ACTION</h5>
-                           <h2 class="section-title">READY FOR UNFORGATABLE TRAVEL. REMEMBER US!</h2>
-                           <p>Fusce hic augue velit wisi quibusdam pariatur, iusto primis, nec nemo, rutrum. Vestibulum cumque laudantium. Sit ornare mollitia tenetur, aptent.</p>
-                           <div class="callback-btn">
-                              <a href="contact.html" class="round-btn">Contact Us!</a>
-                              <a href="about.html" class="outline-btn">Learn More</a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <!-- ***callback section html end here*** -->
+
             </section>
          </main>
          <!-- ***site footer html start form here*** -->
@@ -369,7 +353,7 @@
                            <div class="section-heading">
                               <h5 class="sub-title">BENEFITS FROM US</h5>
                               <h2 class="section-title">WHY Choose US !</h2>
-                              <p>Fusce hic augue velit wisi quibusdam pariatur, iusto primis, nec nemo, rutrum. Vestibulum cumque laudantium. Sit ornare mollitia tenetur, aptent.</p>
+                              <p>Experienced Service Provide Travel Services.</p>
                            </div>
                         </div>
                      </div>
@@ -380,8 +364,8 @@
                                  <i class="fas fa-hand-holding-usd"></i>
                               </div>
                               <div class="icon-box-content">
-                                 <h4>GOOD SALARY</h4>
-                                 <p>Veritatis laudantium, ullamco congue ad, cum condimentum nonummy atque.</p>
+                                 <h4>Real Time Status</h4>
+                                 <p>By dealing with data, select tools that help you automate time-consuming processes.</p>
                               </div>
                            </div>
                         </div>
@@ -391,8 +375,8 @@
                                  <i class="fas fa-award"></i>
                               </div>
                               <div class="icon-box-content">
-                                 <h4>AWARD WINNING</h4>
-                                 <p>Veritatis laudantium, ullamco congue ad, cum condimentum nonummy atque.</p>
+                                 <h4>Expert Help and Live Chat</h4>
+                                 <p>we will provide you with a complete breakdown of all service fees from beginning to end with no hidden fees!</p>
                               </div>
                            </div>
                         </div>
@@ -402,8 +386,8 @@
                                  <i class="fas fa-chart-bar"></i>
                               </div>
                               <div class="icon-box-content">
-                                 <h4>CAREER DEVELOP</h4>
-                                 <p>Veritatis laudantium, ullamco congue ad, cum condimentum nonummy atque.</p>
+                                 <h4>Fast Processing Guaranty</h4>
+                                 <p>By dealing with data, select tools that help you automate time-consuming processes.</p>
                               </div>
                            </div>
                         </div>
@@ -415,176 +399,8 @@
          </main>
          <!-- ***site footer html start form here*** -->
             <!-- ***Home destination html end here*** -->
-            <!-- ***Home package html start from here*** -->
-            <section class="home-package">
-               <div class="container">
-                  <div class="row">
-                     <div class="col-lg-8 offset-lg-2 text-sm-center">
-                        <div class="section-heading">
-                           <h5 class="sub-title">POPULAR PACKAGES</h5>
-                           <h2 class="section-title">CHECKOUT OUR PACKAGES</h2>
-                           <p>Fusce hic augue velit wisi quibusdam pariatur, iusto primis, nec nemo, rutrum. Vestibulum cumque laudantium. Sit ornare mollitia tenetur, aptent.</p>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="package-section">
-                     <article class="package-item">
-                        <figure class="package-image" style="background-image: url(assets/images/img4.jpg);"></figure>
-                        <div class="package-content">
-                           <h3>
-                              <a href="package-detail.html">
-                                 EXPERIENCE THE GREAT HOLIDAY ON BEACH
-                              </a>
-                           </h3>
-                           <p>Laoreet, voluptatum nihil dolor esse quaerat mattis explicabo maiores, est aliquet porttitor! Eaque, cras, aspernatur.</p>
-                           <div class="package-meta">
-                              <ul>
-                                 <li>
-                                    <i class="fas fa-clock"></i>
-                                    7D/6N
-                                 </li>
-                                 <li>
-                                    <i class="fas fa-user-friends"></i>
-                                    pax: 10
-                                 </li>
-                                 <li>
-                                    <i class="fas fa-map-marker-alt"></i>
-                                    Malaysia
-                                 </li>
-                              </ul>
-                           </div>
-                        </div>
-                        <div class="package-price">
-                           <div class="review-area">
-                              <span class="review-text">(25 reviews)</span>
-                              <div class="rating-start-wrap d-inline-block">
-                                 <div class="rating-start">
-                                    <span style="width: 80%"></span>
-                                 </div>
-                              </div>
-                           </div>
-                           <h6 class="price-list">
-                              <span>$750</span>
-                              / per person
-                           </h6>
-                           <a href="booking.html" class="outline-btn outline-btn-white">Book now</a>
-                        </div>
-                     </article>
-                     <article class="package-item">
-                        <figure class="package-image" style="background-image: url(assets/images/img5.jpg);"></figure>
-                        <div class="package-content">
-                           <h3>
-                              <a href="package-detail.html">
-                                 SUMMER HOLIDAY TO THE OXOLOTAN RIVER
-                              </a>
-                           </h3>
-                           <p>Laoreet, voluptatum nihil dolor esse quaerat mattis explicabo maiores, est aliquet porttitor! Eaque, cras, aspernatur.</p>
-                           <div class="package-meta">
-                              <ul>
-                                 <li>
-                                    <i class="fas fa-clock"></i>
-                                    5D/4N
-                                 </li>
-                                 <li>
-                                    <i class="fas fa-user-friends"></i>
-                                    pax: 10
-                                 </li>
-                                 <li>
-                                    <i class="fas fa-map-marker-alt"></i>
-                                    Malaysia
-                                 </li>
-                              </ul>
-                           </div>
-                        </div>
-                        <div class="package-price">
-                           <div class="review-area">
-                              <span class="review-text">(12 reviews)</span>
-                              <div class="rating-start-wrap d-inline-block">
-                                 <div class="rating-start">
-                                    <span style="width: 80%"></span>
-                                 </div>
-                              </div>
-                           </div>
-                           <h6 class="price-list">
-                              <span>$520</span>
-                              / per person
-                           </h6>
-                           <a href="booking.html" class="outline-btn outline-btn-white">Book now</a>
-                        </div>
-                     </article>
-                     <article class="package-item">
-                        <figure class="package-image" style="background-image: url(assets/images/img6.jpg);"></figure>
-                        <div class="package-content">
-                           <h3>
-                              <a href="package-detail.html">
-                                 SANTORINI ISLAND'S WEEKEND VACATION
-                              </a>
-                           </h3>
-                           <p>Laoreet, voluptatum nihil dolor esse quaerat mattis explicabo maiores, est aliquet porttitor! Eaque, cras, aspernatur.</p>
-                           <div class="package-meta">
-                              <ul>
-                                 <li>
-                                    <i class="fas fa-clock"></i>
-                                    6D/5N
-                                 </li>
-                                 <li>
-                                    <i class="fas fa-user-friends"></i>
-                                    pax: 10
-                                 </li>
-                                 <li>
-                                    <i class="fas fa-map-marker-alt"></i>
-                                    Malaysia
-                                 </li>
-                              </ul>
-                           </div>
-                        </div>
-                        <div class="package-price">
-                           <div class="review-area">
-                              <span class="review-text">(43 reviews)</span>
-                              <div class="rating-start-wrap d-inline-block">
-                                 <div class="rating-start">
-                                    <span style="width: 80%"></span>
-                                 </div>
-                              </div>
-                           </div>
-                           <h6 class="price-list">
-                              <span>$660</span>
-                              / per person
-                           </h6>
-                           <a href="booking.html" class="outline-btn outline-btn-white">Book now</a>
-                        </div>
-                     </article>
-                     <div class="section-btn-wrap text-center">
-                        <a href="package.html" class="round-btn">VIEW ALL PACKAGES</a>
-                     </div>
-                  </div>
-               </div>
-            </section>
-            <!-- ***Home package html end here*** -->
-            <!-- ***Home callback html start from here*** -->
-            <section class="home-callback bg-img-fullcallback" style="background-image: url(assets/images/img7.jpg);">
-               <div class="overlay"></div>
-               <div class="container">
-                  <div class="row">
-                     <div class="col-lg-8 offset-lg-2 text-center">
-                        <div class="callback-content">
-                           <div class="video-button">
-                              <a  id="video-container" data-fancybox="video-gallery" href="https://www.youtube.com/watch?v=2OYar8OHEOU">
-                                 <i class="fas fa-play"></i>
-                              </a>
-                           </div>
-                           <h2 class="section-title">ARE YOU READY TO TRAVEL? REMEMBER US !!</h2>
-                           <p>Fusce hic augue velit wisi quibusdam pariatur, iusto primis, nec nemo, rutrum. Vestibulum cumque laudantium. Sit ornare mollitia tenetur, aptent.</p>
-                           <div class="callback-btn">
-                              <a href="package.html" class="round-btn">View Packages</a>
-                              <a href="about.html" class="outline-btn outline-btn-white">Learn More</a>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </section>
-            <!-- ***Home callback html end here*** -->
+       
+           
             <!-- ***Home counter html start from here*** -->
             <div class="home-counter">
                <div class="container">
@@ -633,14 +449,13 @@
                         <div class="section-heading">
                            <h5 class="sub-title">OFFER & DISCOUNT</h5>
                            <h2 class="section-title">OUR SPECIAL PACKAGES</h2>
-                           <p>Fusce hic augue velit wisi quibusdam pariatur, iusto primis, nec nemo, rutrum. Vestibulum cumque laudantium. Sit ornare mollitia tenetur, aptent.</p>
                         </div>
                      </div>
                   </div>
                   <div class="offer-section">
                      <div class="row">
                         <div class="col-md-6">
-                           <article class="offer-item" style="background-image: url(assets/images/img8.jpg);">
+                           <article class="offer-item" style="background-image: url(assets/images/country/usa.jpeg);">
                               <div class="offer-badge">
                                  UPTO <span>25%</span> off
                               </div>
@@ -657,15 +472,15 @@
                                        </li>
                                        <li>
                                           <i class="fas fa-map-marker-alt"></i>
-                                          Malaysia
+                                          USA
                                        </li>
                                     </ul>
                                  </div>
                                  <h3>
-                                    <a href="package.html">TOUR TO SATORINI</a>
+                                    <a href="#">TOUR TO USA</a>
                                  </h3>
                                  <p>
-                                    Fusce hic augue velit wisi ips quibus dam pariatur, iusto.
+                                    Travel to USA and enjoy with us
                                  </p>
                                  <div class="price-list">
                                     price: 
@@ -677,7 +492,7 @@
                            </article>
                         </div>
                         <div class="col-md-6">
-                           <article class="offer-item" style="background-image: url(assets/images/img9.jpg);">
+                           <article class="offer-item" style="background-image: url(assets/images/country/sydney-opera-house-354375_1280.jpg);">
                               <div class="offer-badge">
                                  UPTO <span>17%</span> off
                               </div>
@@ -694,15 +509,15 @@
                                        </li>
                                        <li>
                                           <i class="fas fa-map-marker-alt"></i>
-                                          Malaysia
+                                          Australia
                                        </li>
                                     </ul>
                                  </div>
                                  <h3>
-                                    <a href="package.html">WEEKEND TO PARIS</a>
+                                    <a href="package.html">WEEKEND TO Australia</a>
                                  </h3>
                                  <p>
-                                    Fusce hic augue velit wisi ips quibus dam pariatur, iusto.
+                                    travel to Australia and enjoy with us.
                                  </p>
                                  <div class="price-list">
                                     price: 
@@ -715,7 +530,7 @@
                         </div>
                      </div>
                      <div class="section-btn-wrap text-center">
-                        <a href="package-offer.html" class="round-btn">VIEW ALL PACKAGES</a>
+                        <a href="#" class="round-btn">VIEW ALL PACKAGES</a>
                      </div>
                   </div>
                </div>
@@ -729,7 +544,6 @@
                         <div class="section-heading">
                            <h5 class="sub-title">PHOTO GALLERY</h5>
                            <h2 class="section-title">PHOTO'S FROM TRAVELLERS</h2>
-                           <p>Fusce hic augue velit wisi quibusdam pariatur, iusto primis, nec nemo, rutrum. Vestibulum cumque laudantium. Sit ornare mollitia tenetur, aptent.</p>
                         </div>
                      </div>
                   </div>
@@ -783,8 +597,7 @@
                         <div class="client-content">
                            <h5 class="sub-title">DISCOUNT OFFER</h5>
                            <h2 class="section-title">GET SPECIAL DISCOUNT ON SIGN UP !</h2>
-                           <p>Fusce hic augue velit wisi quibusdam pariatur, iusto primis, nec nemo, rutrum. Vestibulum cumque laudantm sit.</p>
-                           <a href="contact.html" class="round-btn">Sign Up Now</a>
+                           <a href="contact.php" class="round-btn">Sign Up Now</a>
                         </div>
                      </div>
                      <div class="col-lg-6">
@@ -816,177 +629,8 @@
                <div class="overlay"></div>
             </section>
             <!-- ***Home client html end here*** -->
-            <!-- ***Home blog html start from here*** -->
-            <section class="home-blog">
-               <div class="container">
-                  <div class="section-heading d-sm-flex align-items-center justify-content-between">
-                     <div class="heading-group">
-                        <h5 class="sub-title">LATEST BLOG</h5>
-                        <h2 class="section-title">OUR RECENT POSTS</h2>
-                        <p>Fusce hic augue velit wisi quibusdam pariatur, iusto primis, nec nemo, rutrum. <br/>Vestibulum cumque laudantium. Sit ornare mollitia tenetur, aptent.</p>
-                     </div>
-                     <div class="heading-btn">
-                        <a href="blog-archive.html" class="round-btn">View All Blog</a>
-                     </div>
-                  </div>
-                  <div class="blog-section">
-                     <div class="row gx-4">
-                        <div class="col-lg-6">
-                           <article class="post">
-                              <figure class="featured-post" style="background-image: url(assets/images/img16.jpg);"></figure>
-                              <div class="post-content">
-                                 <div class="cat-meta">
-                                    <a href="blog-archive.html">TOUR</a>
-                                 </div>
-                                 <h3><a href="blog-single.html">BEST JOURNEY TO PEACEFUL PLACES</a></h3>
-                                 <p>Laboris hac erat dolor, posuere volutpat fringilla gravida metus nonummy, blandit mi...</p>
-                                 <div class="post-footer d-flex justify-content-between align-items-center">
-                                    <div class="post-btn">
-                                       <a href="blog-single.html" class="round-btn">Read More</a>
-                                    </div>
-                                    <div class="meta-comment">
-                                       <a href="blog-archive.html">
-                                          <i aria-hidden="true" class="fas fa-comment"></i>
-                                          <span>0</span>
-                                       </a>
-                                    </div>
-                                 </div>
-                              </div>
-                           </article>
-                        </div>
-                        <div class="col-lg-6">
-                           <article class="post">
-                              <figure class="featured-post" style="background-image: url(assets/images/img17.jpg);"></figure>
-                              <div class="post-content">
-                                 <div class="cat-meta">
-                                    <a href="blog-archive.html">TRAVEL</a>
-                                 </div>
-                                 <h3><a href="blog-single.html">BTRAVEL WITH FRIENDS IS BEST</a></h3>
-                                 <p>Laboris hac erat dolor, posuere volutpat fringilla gravida metus nonummy, blandit mi...</p>
-                                 <div class="post-footer d-flex justify-content-between align-items-center">
-                                    <div class="post-btn">
-                                       <a href="blog-single.html" class="round-btn">Read More</a>
-                                    </div>
-                                    <div class="meta-comment">
-                                       <a href="blog-archive.html">
-                                          <i aria-hidden="true" class="fas fa-comment"></i>
-                                          <span>0</span>
-                                       </a>
-                                    </div>
-                                 </div>
-                              </div>
-                           </article>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </section>
-            <!-- ***Home blog html end here*** -->
-            <!-- ***Home testimonial html start from here*** -->
-            <section class="home-testimonial">
-               <div class="container">
-                  <div class="row">
-                     <div class="col-lg-8 offset-lg-2 text-center">
-                        <div class="section-heading">
-                           <h5 class="sub-title">CLIENT'S REVIEWS</h5>
-                           <h2 class="section-title">TRAVELLER'S TESTIMONIAL</h2>
-                           <p>Fusce hic augue velit wisi quibusdam pariatur, iusto primis, nec nemo, rutrum. Vestibulum cumque laudantium. Sit ornare mollitia tenetur, aptent.</p>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="testimonial-section testimonial-slider">
-                     <div class="testimonial-item">
-                        <div class="testimonial-content">
-                           <div class="rating-start-wrap">
-                              <div class="rating-start">
-                                 <span style="width: 80%"></span>
-                              </div>
-                           </div>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                           <div class="author-content">
-                              <figure class="testimonial-img">
-                                 <img src="assets/images/img18.jpg" alt="">
-                              </figure>
-                              <div class="author-name">
-                                 <h5>WILLIAM WRIGHT</h5>
-                                 <span>TRAVELLERS</span>
-                              </div>
-                           </div>
-                           <div class="testimonial-icon">
-                              <i aria-hidden="true" class="fas fa-quote-left"></i>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="testimonial-item">
-                        <div class="testimonial-content">
-                           <div class="rating-start-wrap">
-                              <div class="rating-start">
-                                 <span style="width: 80%"></span>
-                              </div>
-                           </div>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                           <div class="author-content">
-                              <figure class="testimonial-img">
-                                 <img src="assets/images/img19.jpg" alt="">
-                              </figure>
-                              <div class="author-name">
-                                 <h5>ALISON WHITE</h5>
-                                 <span>TRAVELLERS</span>
-                              </div>
-                           </div>
-                           <div class="testimonial-icon">
-                              <i aria-hidden="true" class="fas fa-quote-left"></i>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="testimonial-item">
-                        <div class="testimonial-content">
-                           <div class="rating-start-wrap">
-                              <div class="rating-start">
-                                 <span style="width: 80%"></span>
-                              </div>
-                           </div>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                           <div class="author-content">
-                              <figure class="testimonial-img">
-                                 <img src="assets/images/img20.jpg" alt="">
-                              </figure>
-                              <div class="author-name">
-                                 <h5>GEORGE SMITH</h5>
-                                 <span>TRAVELLERS</span>
-                              </div>
-                           </div>
-                           <div class="testimonial-icon">
-                              <i aria-hidden="true" class="fas fa-quote-left"></i>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="testimonial-item">
-                        <div class="testimonial-content">
-                           <div class="rating-start-wrap">
-                              <div class="rating-start">
-                                 <span style="width: 80%"></span>
-                              </div>
-                           </div>
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                           <div class="author-content">
-                              <figure class="testimonial-img">
-                                 <img src="assets/images/img19.jpg" alt="">
-                              </figure>
-                              <div class="author-name">
-                                 <h5>ALISON WHITE</h5>
-                                 <span>TRAVELLERS</span>
-                              </div>
-                           </div>
-                           <div class="testimonial-icon">
-                              <i aria-hidden="true" class="fas fa-quote-left"></i>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </section>
-            <!-- ***Home testimonial html end here*** -->
+        
+      
             <!-- ***Home callback html start from here*** -->
             <section class="home-callback bg-color-callback primary-bg">
                <div class="container">
@@ -994,10 +638,9 @@
                      <div class="col-md-8">
                         <h5 class="sub-title">CALL TO ACTION</h5>
                         <h2 class="section-title">READY FOR UNFORGATABLE TRAVEL. REMEMBER US!</h2>
-                        <p>Fusce hic augue velit wisi quibusdam pariatur, iusto primis, nec nemo, rutrum. Vestibulum cumque laudantium. Sit ornare mollitia tenetur, aptent.</p>
                      </div>
                      <div class="col-md-4 text-md-end">
-                        <a href="contact.html" class="outline-btn outline-btn-white">Contact Us !</a>
+                        <a href="contact.php" class="outline-btn outline-btn-white">Contact Us !</a>
                      </div>
                   </div>
                </div>

@@ -1,5 +1,5 @@
 <header id="masthead" class="site-header">
-            <!-- header html start -->
+            <!-- header php start -->
             <div class="top-header">
                <div class="container">
                   <div class="top-header-inner">
@@ -14,7 +14,7 @@
                      </div>
                      <div class="site-logo text-center">
                         <h1 class="site-title">
-                           <a href="index.html">
+                           <a href="index.php">
                               <!-- <img src="assets/images/site-logo.png" alt="Logo"> -->
                               <h2 style="color:white">𝕸𝖔𝖗𝖓𝖎𝖓𝖌 𝕭𝖗𝖊𝖊𝖟𝖊</h2>
                            </a>
@@ -57,92 +57,92 @@
                         <nav id="navigation" class="navigation">
                            <ul>
                               <li class="menu-active">
-                                 <a href="index.html">Home</a>
+                                 <a href="index.php">Home</a>
                               </li>
                               <li class="menu-item-has-children">
-                                 <a href="index.html">Visa</a>
+                                 <a href="index.php">Visa</a>
                                  <ul>
                                     <li>
-                                       <a href="package.html">Student Visa</a>
+                                       <a href="student-visa.php">Student Visa</a>
                                     </li>
                                     <li>
-                                       <a href="package-offer.html">Business Visa</a>
+                                       <a href="business-visa.php">Business Visa</a>
                                     </li>
                                     <li>
-                                       <a href="package-detail.html">Job Seeker Visa</a>
+                                       <a href="job-seeker-visa.php">Job Seeker Visa</a>
                                     </li>
                                  </ul>
                               </li>
                               <li class="menu-item-has-children">
-                                 <a href="index.html">Studies</a>
+                                 <a href="index.php">Studies</a>
                                  <ul>
                                     <li>
-                                       <a href="package.html">STUDY IN USA</a>
+                                       <a href="package.php">STUDY IN USA</a>
                                     </li>
                                     <li>
-                                       <a href="package-offer.html">STUDY IN AUSTRALIA</a>
+                                       <a href="package-offer.php">STUDY IN AUSTRALIA</a>
                                     </li>
                                     <li>
-                                       <a href="package-detail.html">STUDY IN Norway</a>
+                                       <a href="package-detail.php">STUDY IN Norway</a>
                                     </li>
                                     <li>
-                                       <a href="package-detail.html">STUDY IN UK</a>
+                                       <a href="package-detail.php">STUDY IN UK</a>
                                     </li>
                                     <li>
-                                       <a href="package-detail.html">STUDY IN NEWZELAND</a>
+                                       <a href="package-detail.php">STUDY IN NEWZELAND</a>
                                     </li>
                                     <li>
-                                       <a href="package-detail.html">STUDY IN CANADA</a>
+                                       <a href="package-detail.php">STUDY IN CANADA</a>
                                     </li>
                                     <li>
-                                       <a href="package-detail.html">STUDY IN EUROPE</a>
+                                       <a href="package-detail.php">STUDY IN EUROPE</a>
                                     </li>
                                     <li>
-                                       <a href="package-detail.html">STUDY IN CYPRUS</a>
+                                       <a href="package-detail.php">STUDY IN CYPRUS</a>
                                     </li>
                                  </ul>
                               </li>
                               <li class="menu-item-has-children">
-                                 <a href="index.html">Migration</a>
+                                 <a href="index.php">Migration</a>
                                  <ul>
                                     <li>
-                                       <a href="package.html">Migrate To CANADA</a>
+                                       <a href="package.php">Migrate To CANADA</a>
                                     </li>
                                     <li>
-                                       <a href="package-offer.html">Migrate To Australia</a>
+                                       <a href="package-offer.php">Migrate To Australia</a>
                                     </li>
                                     <li>
-                                       <a href="package-detail.html">Migrate To Norway & Work Permit</a>
+                                       <a href="package-detail.php">Migrate To Norway & Work Permit</a>
                                     </li>
                                     <li>
-                                       <a href="package-detail.html">Migrate To Russia</a>
+                                       <a href="package-detail.php">Migrate To Russia</a>
                                     </li>
                                     <li>
-                                       <a href="package-detail.html">Migrate To EUROPE</a>
+                                       <a href="package-detail.php">Migrate To EUROPE</a>
                                     </li>
                                     <li>
-                                       <a href="package-detail.html">Migrate To NEWZEALAND</a>
+                                       <a href="package-detail.php">Migrate To NEWZEALAND</a>
                                     </li>
                                    
                                  </ul>
                               </li>
                               <li>
-                                 <a href="destination.html">Visit Visa</a>
+                                 <a href="destination.php">Visit Visa</a>
                               </li>
                               <li>
-                                 <a href="about.html">about us</a>
+                                 <a href="about.php">about us</a>
                               </li>
                              
                              
                              
                               <li>
-                                 <a href="contact.html">contact us</a>
+                                 <a href="contact.php">contact us</a>
                               </li>
                            </ul>
                         </nav>
                      </div>
                      <div class="header-btn">
-                        <!-- <a href="booking.html" class="round-btn">Book Now</a> -->
+                        <!-- <a href="booking.php" class="round-btn">Book Now</a> -->
                      </div>
                   </div>
                </div>
