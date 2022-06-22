@@ -74,60 +74,60 @@
                                  </ul>
                               </li>
                               <li class="menu-item-has-children">
-                                 <a href="index.php">Studies</a>
+                                 <a href="#">Studies</a>
                                  <ul>
                                     <li>
-                                       <a href="package.php">STUDY IN USA</a>
+                                       <a href="STUDY_IN_USA.php">STUDY IN USA</a>
                                     </li>
                                     <li>
-                                       <a href="package-offer.php">STUDY IN AUSTRALIA</a>
+                                       <a href="STUDY_IN_AUSTRALIA.php">STUDY IN AUSTRALIA</a>
                                     </li>
                                     <li>
-                                       <a href="package-detail.php">STUDY IN Norway</a>
+                                       <a href="STUDY_IN_NORWAY.php">STUDY IN NORWAY</a>
                                     </li>
                                     <li>
-                                       <a href="package-detail.php">STUDY IN UK</a>
+                                       <a href="STUDY_IN_UK.php">STUDY IN UK</a>
                                     </li>
                                     <li>
-                                       <a href="package-detail.php">STUDY IN NEWZELAND</a>
+                                       <a href="STUDY_IN_NEWZELAND.php">STUDY IN NEWZELAND</a>
                                     </li>
                                     <li>
-                                       <a href="package-detail.php">STUDY IN CANADA</a>
+                                       <a href="STUDY_IN_CANADA.php">STUDY IN CANADA</a>
                                     </li>
                                     <li>
-                                       <a href="package-detail.php">STUDY IN EUROPE</a>
+                                       <a href="STUDY_IN_EUROPE.php">STUDY IN EUROPE</a>
                                     </li>
                                     <li>
-                                       <a href="package-detail.php">STUDY IN CYPRUS</a>
+                                       <a href="STUDY_IN_CYPRUS.php">STUDY IN CYPRUS</a>
                                     </li>
                                  </ul>
                               </li>
                               <li class="menu-item-has-children">
-                                 <a href="index.php">Migration</a>
+                                 <a href="#">Migration</a>
                                  <ul>
                                     <li>
-                                       <a href="package.php">Migrate To CANADA</a>
+                                       <a href="Migrate_To_CANADA.php">Migrate To CANADA</a>
                                     </li>
                                     <li>
-                                       <a href="package-offer.php">Migrate To Australia</a>
+                                       <a href="Migrate_To_Australia.php">Migrate To Australia</a>
                                     </li>
                                     <li>
-                                       <a href="package-detail.php">Migrate To Norway & Work Permit</a>
+                                       <a href="Migrate_To_Norway.php">Migrate To Norway & Work Permit</a>
                                     </li>
                                     <li>
-                                       <a href="package-detail.php">Migrate To Russia</a>
+                                       <a href="Migrate_To_Russia.php">Migrate To Russia</a>
                                     </li>
                                     <li>
-                                       <a href="package-detail.php">Migrate To EUROPE</a>
+                                       <a href="Migrate_To_EUROPE.php">Migrate To EUROPE</a>
                                     </li>
                                     <li>
-                                       <a href="package-detail.php">Migrate To NEWZEALAND</a>
+                                       <a href="Migrate_To_NEWZEALAND.php">Migrate To NEWZEALAND</a>
                                     </li>
                                    
                                  </ul>
                               </li>
                               <li>
-                                 <a href="destination.php">Visit Visa</a>
+                                 <!-- <a href="destination.php">Visit Visa</a> -->
                               </li>
                               <li>
                                  <a href="about.php">about us</a>
